@@ -8,11 +8,6 @@
 4. IntelliJ Idea
 5. ZipKin Server
 
-## Steps To Clone This Repository To Local
-
-1. Create new folder
-2. Go inside that folder open `cmd`
-3. Type `git clone https://github.com/Akshay-9189/ECommerceApp-Backend.git`
 
 ## Steps To Start Projects
 
