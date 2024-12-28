@@ -1,16 +1,35 @@
 # FullStackRetail
 
-Ecommerce Backend
-Software Required
-Java 17
-MySQL 8 & SQLYog
-MongoDB 6 & MongoDB Compass
-IntelliJ Idea
-ZipKin Server
+Name- Retail Ecommerce Application
+
+Domain- Retail
+
+Technologies-
+Back End- Java | JDK 1.8 | Data JPA | Spring Boot |
+Microservices
+
+Front End- React JS
+
+Database- SQL- MySQL, PostgreSQL
+          NoSQL- MongoDB
+		  
+Tools- 
+API Testing- Postman API / Swagger UI
+Version Control- GitHub
+Story Tracking- JIRA
+Process- Agile Practices
+Web Server- Tomcat 9
+Containerizing- Docker
+Cloud- AWS
+Local Build Management- Gradle/Maven
+CI/CD- Jenkins
+JUnit- Mockito Framework
+Spring Profilers- DEV/QA/PROD
+
 
 Create new folder- Ex- RetailEcommerce
 
-Steps To Clone https://github.com/jadhavkirangreatlearning/FullStackRetail.git Repository To Local
+Steps To Clone https://github.com/Gitanjali-Yadav/Full-Stack-Ecommerce-Project.git Repository To Local
 
 Steps To Start Projects
 Open all projects in IntelliJ Idea
